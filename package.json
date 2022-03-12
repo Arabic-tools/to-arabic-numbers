@@ -1,0 +1,19 @@
+{
+    "name": "to-arabic-numbers",
+    "version": "1.0.1",
+    "description": "convert numeric strings contains arabic numbers to english numbers and vice versa.",
+    "main": "index.js",
+    "repository": {
+      "type": "git",
+      "url": ""
+    },
+    "keywords": [
+      "arabic",
+      "number",
+      "persian",
+      "to-arabic-numbers",
+      "convert"
+    ],
+    "author": "Mohamed Nashaat <nashaatfarrag@gmail.com>",
+    "homepage": "https://github.com/rsp/node-caught#readme"
+}
